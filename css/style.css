@@ -1,0 +1,20 @@
+.title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 90px;
+    text-align: center;
+}
+
+#social .title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+#subtitle, #profilePic, #profile {
+    font-family: 'Inconsolata';
+    text-align: center;
+}
+
+.row .fa-ul {
+    font-family: 'Inconsolata';
+}
