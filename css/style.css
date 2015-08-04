@@ -10,7 +10,12 @@
     text-align: center;
 }
 
-#subtitle, #profile {
+#subtitle {
+    font-family: 'Open Sans';
+    text-align: center;
+}
+
+#profile {
     font-family: 'Inconsolata';
     text-align: center;
 }
