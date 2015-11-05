@@ -1,6 +1,6 @@
 .title {
     font-family: 'Open Sans', sans-serif;
-    font-size: 40px;
+    font-size: 45px;
     text-align: center;
 }
 
@@ -12,6 +12,7 @@
 
 #subtitle {
     font-family: 'Open Sans';
+    font-size: 15px;
     text-align: center;
 }
 
